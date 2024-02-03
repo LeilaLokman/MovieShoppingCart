@@ -1,11 +1,11 @@
 # MovieShoppingCart
 
-Using the Open Movie Database(OMDb) API, I created a movie shopping cart website using a combination of PHP, HTML, CSS, and JavaScript. Upon opening the webpage, users will be prompted to login with a username and password with a forgot password option and a create account option. Once user has created an account or logged in, a main page will pop up with an option to add movie or checkout. When add movie is clicked, the user will be prompted to enter a movie title of their choice. A list of movies will be displayed as well as IMDb page for the movie using the OMDb API if the movie title is clicked. Users will be able to add and remove their desired movies into their shopping cart. Once user checksout, a checkout recipt will be sent to the email associated with the account. 
+Welcome to MovieShoppingCart – your go-to destination for a simple yet engaging movie shopping experience. The website combines PHP, HTML, CSS, and JavaScript to create a seamless platform.
 
-PHP was implemented for user authentication, shopping cart features, and search features.
+Upon arrival, users encounter a user-friendly login interface with options for forgot password and easy account creation. Once logged in, a clean main page awaits, offering the choice to explore movies or proceed to checkout.
 
-HTML was implemented for each form used, logon, shopping cart, search, and results.
+The 'Add Movie' feature lets users input their desired title, presenting a curated list with detailed information from the Open Movie Database (OMDb) API. Clicking on a title provides not only info but also a direct IMDb link.
 
-CSS was implemented to control the presentation of the Shopping Cart website.
+PHP handles authentication, cart features, and search functionality. HTML crafts visually appealing forms for login, cart management, and search. CSS ensures a sleek and pleasing design. JavaScript adds interactivity, enhancing actions like adding/removing movies.
 
-javaScript was implemented to add movies, confirm cancel when leaving the shopping cart, confirm cheackout, confirm logout, and confirm removing a movie from the cart.
+Checkout is a breeze, concluding with a detailed receipt sent to the user's email. MovieShoppingCart provides a hassle-free and enjoyable online movie shopping experience.
